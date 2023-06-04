@@ -12,7 +12,7 @@ Zenitsu-Bot-V3 Multi Device is a automated whatsapp bot developed by <a href="ht
 
 <p align="center">
 
-<a href="https://youtu.be/fVFn4fhz-F8"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtu.be/kyc7oZllF2Y"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 
 </p>
 
