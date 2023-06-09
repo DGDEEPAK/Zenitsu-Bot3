@@ -1,0 +1,4 @@
+language="nodejs"
+run="npm install && pm2 start Nandita.js && pm2 save && pm2 logs"
+entrypoint = "Nandita.js"
+hidden = [".config", "package-lock.json"]
