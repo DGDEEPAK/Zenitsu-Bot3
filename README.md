@@ -69,6 +69,16 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 # Setup For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/DGDEEPAK/Zenitsu-Bot3/fork)
+   
+## ` BUILDPACKS`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/Zenitsu-Bot3/)
+
 
 # Install Manually 👇
 
