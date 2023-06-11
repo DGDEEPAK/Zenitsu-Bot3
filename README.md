@@ -106,10 +106,8 @@ git clone https://github.com/DGDEEPAK/Zenitsu-Bot3.git
 cd Zenitsu-Bot3
 
 rm -rf auth_info_baileys
-
-yarn install
-
-node Nandita.js
+   
+node Nandita.js   
 
 ```
 
@@ -144,10 +142,6 @@ git clone https://github.com/DGDEEPAK/Zenitsu-Bot3
 cd Zenitsu-Bot3
 
 rm -rf auth_info_baileys
-
-   
-
-yarn install
 
 node Nandita.js
 
